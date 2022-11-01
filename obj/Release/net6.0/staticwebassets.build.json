@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "pBsvMAuQJYAblsjDEDkE1vcXlLTaGGuymg0zMHYprlU=",
+  "Source": "AspCorAsWindowsService",
+  "BasePath": "_content/AspCorAsWindowsService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

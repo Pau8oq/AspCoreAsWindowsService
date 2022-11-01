@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\user\Desktop\Vasyl\TmpProj\AspCorAsWindowsService\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-11-01T16:05:08.5202489Z;True|2022-11-01T17:03:22.1029920+02:00;False|2022-11-01T17:02:45.9398391+02:00;False|2022-11-01T17:02:37.4410920+02:00;True|2022-11-01T17:00:03.5654200+02:00;False|2022-11-01T16:59:13.3085679+02:00;True|2022-11-01T16:55:33.2564966+02:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
